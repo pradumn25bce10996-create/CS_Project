@@ -19,7 +19,7 @@ The **Vehicle Rental Management System** is designed to streamline the process o
 
 ## Target Users
 - **Rental Agencies** looking for an automated and efficient way to manage their fleet.
-- **Customers** who want a convenient method to browse and rent vehicles.
+- **Customers** who want a convenient method to browse and rent vehicle.
 
 ## Expected Outcome
 The system will simplify the vehicle rental workflow, minimize human errors, and ensure faster, more reliable service delivery. It will serve as a foundational project for learning programming concepts while offering practical real-world utility.
